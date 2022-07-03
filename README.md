@@ -1,3 +1,21 @@
+One of my favoreite projects so far! Fantastic lesson in Material UI, APIs calls, and Reactjs. 
+
+User will need API key for production 
+
+⭐RapidAPI - https://rapidapi.com/hub?utm_source=y...
+⭐RapidAPI ExerciseDB - https://rapidapi.com/justin-WFnsXH_t6...
+⭐RapidAPI YouTube Search - https://rapidapi.com/h0p3rwe/api/yout...
+
+
+
+https://user-images.githubusercontent.com/86543368/177041494-89e20fdd-2987-417f-b4f7-247a72b089f2.mp4
+
+
+
+https://user-images.githubusercontent.com/86543368/177041495-55d29f97-5838-4a40-929f-b6fb01cb5923.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
