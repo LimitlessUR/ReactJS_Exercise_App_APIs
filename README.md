@@ -1,4 +1,4 @@
-One of my favoreite projects so far! Fantastic lesson in Material UI, APIs calls, and Reactjs. 
+One of my favorite projects so far! Fantastic lesson in Material UI, APIs calls, and Reactjs. 
 
 User will need API key for production 
 
