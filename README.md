@@ -2,9 +2,9 @@ One of my favorite projects so far! Fantastic lesson in Material UI, APIs calls,
 
 User will need API key for production 
 
-⭐RapidAPI - https://rapidapi.com/hub?utm_source=y...
-⭐RapidAPI ExerciseDB - https://rapidapi.com/justin-WFnsXH_t6...
-⭐RapidAPI YouTube Search - https://rapidapi.com/h0p3rwe/api/yout...
+⭐RapidAPI -https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
+⭐RapidAPI ExerciseDB - https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
+⭐RapidAPI YouTube Search -https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
 
 
