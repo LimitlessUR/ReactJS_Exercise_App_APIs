@@ -1,6 +1,6 @@
 One of my favorite projects so far! Fantastic lesson in Material UI, APIs calls, and Reactjs. 
 
-##`User will need API key for production` 
+h1`User will need API key for production` 
 
 ⭐RapidAPI -https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
