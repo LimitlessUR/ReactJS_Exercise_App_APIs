@@ -1,4 +1,6 @@
-One of my favorite projects so far! Fantastic lesson in Material UI, APIs calls, and Reactjs. 
+ Fantastic lesson in Material UI, APIs calls, and Reactjs. 
+ The Finciotnality of this app impowers our users to search through the exercise DB API for over 1300 different exercises to add to their routine.
+ Within each exercise component card are youtube videos from the youtube search API 
 
 `User will need API key for production` 
 
