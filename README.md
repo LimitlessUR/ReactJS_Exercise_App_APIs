@@ -2,7 +2,7 @@
  
  The Functionnality of this app impowers our users to search through the exercise DB API for over 1300 different exercises to add to their routine.
  
- Within each exercise component card are youtube videos from the youtube search API, which gives our users video demos and and detailed instruction on how to perform each exercise. 
+ Within each exercise component card are youtube videos from the youtube search API, which gives our users video demos and detailed instruction on how to perform each exercise. 
 
 `User will need API key for production` 
 
