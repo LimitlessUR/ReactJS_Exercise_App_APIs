@@ -7,8 +7,7 @@
 `Deployed on AWS amplify Server`
 
 ### Visit live site [Visit here on AWS Amplify](https://dev5303.d2s0x0njky1gl5.amplifyapp.com/)
- 
- Visit Here: https://dev5303.d2s0x0njky1gl5.amplifyapp.com/
+
 
 `User will need API key for production` 
 
