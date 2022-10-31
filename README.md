@@ -4,7 +4,7 @@
  
  Within each exercise component card are youtube videos from the youtube search API, which gives our users video demos and detailed instruction on how to perform each exercise. 
  
-`Deployed on AWS amplify Server`
+`Deployed on AWS Amplify`
 
 ### Visit live site [Visit here on AWS Amplify](https://dev5303.d2s0x0njky1gl5.amplifyapp.com/)
 
